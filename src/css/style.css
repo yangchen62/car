@@ -1,0 +1,19 @@
+.error-page {
+    background: #6bc5a4;
+}
+
+.error-wrapper {
+    margin-top: 15%;
+}
+
+.error-wrapper .back-btn {
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 15px 30px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
